@@ -4,7 +4,7 @@ UA:
 ## Як запустити (для користувача)
 1. Завантажте архів з релізом
 2. Розпакуйте його
-3. Переконайтеся, що папка `data` знаходиться поруч із файлом `Sortem.exe`
+3. Переконайтеся, що папка `data` знаходиться поруч із файлом `Sortem.exe`, якщо ж ні, створіть її
 4. Запустіть `Sortem.exe`
 
 Як збілдити проєкт:
@@ -19,7 +19,7 @@ EN:
 ## How to run (for users)
 1. Download the release archive
 2. Unzip it
-3. Make sure that the `data` folder is next to the `Sortem.exe` file
+3. Make sure that the `data` folder is next to the `Sortem.exe` file, if not, create it
 4. Run `Sortem.exe`
 
 How to build the project:
